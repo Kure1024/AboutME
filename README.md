@@ -26,8 +26,7 @@ Passionate about creating efficient, innovative solutions using **Java, Kotlin, 
 - **Tech:** Kotlin, Firebase  
 - Android app to log meals, track calories, and monitor fitness goals.  
 
-### 3. [AI CV Tailoring Tool](https://github.com/Kure1024/Ai-CV-tailoring-tool) - pre-deployment
-Deployed version: (https://github.com/Oluwablin/ai-cv-tailoring-tool)
+### 3. [AI CV Tailoring Tool](https://github.com/Oluwablin/ai-cv-tailoring-tool)
 - **Tech:** JavaScript, Node.js  
 - Web app that helps users optimize CVs using AI-driven suggestions.  
 
