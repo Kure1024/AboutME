@@ -30,10 +30,6 @@ Passionate about creating efficient, innovative solutions using **Java, Kotlin, 
 - **Tech:** JavaScript, Node.js  
 - Web app that helps users optimize CVs using AI-driven suggestions.  
 
----
-
-## 📈 GitHub Stats
-![Kure1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kure1024&show_icons=true&theme=radical)  
 
 ---
 
@@ -44,4 +40,4 @@ Passionate about creating efficient, innovative solutions using **Java, Kotlin, 
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+*“Failure only occurs if you stop trying.” – Said me ✌ *
