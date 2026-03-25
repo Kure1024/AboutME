@@ -32,7 +32,7 @@ Passionate about creating efficient, innovative solutions using **Java, Kotlin, 
 
 
 ---
-[Download/View My CV](Satwik_Kapoor_CV(1).pdf)
+[![CV](https://img.shields.io/badge/Download_CV-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](Satwik.Kapoor_CV.pdf)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
