@@ -35,9 +35,8 @@ Passionate about creating efficient, innovative solutions using **Java, Kotlin, 
 [![CV](https://img.shields.io/badge/Download_CV-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](Satwik_Kapoor_CV.pdf)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Portfolio](https://your-portfolio-link.com)  
-- Email: your.email@example.com  
+- [LinkedIn](https://www.linkedin.com/in/satwik-kapoor/)   
+- Email: skkapoor2410@gmail.com  
 
 ---
 
